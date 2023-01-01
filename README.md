@@ -6,6 +6,5 @@
 
 - 🔭 I’m currently working on Twitter Clone
 - 🌱 I’m currently learning MERN
-- 👯 I’m looking to collaborate on ZipFast
 - 💬 Ask me about Frontend
 - 📫 How to reach me: umangpatel3105@gmail.com
